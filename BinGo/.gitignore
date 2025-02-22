@@ -12,3 +12,4 @@ build/
 # Ignore CocoaPods dependencies (if using)
 Pods/
 
+Info.plist
