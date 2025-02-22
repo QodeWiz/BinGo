@@ -1,0 +1,14 @@
+# Ignore Xcode temporary files
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcworkspace
+
+# Ignore build artifacts
+build/
+*.app
+*.ipa
+
+# Ignore CocoaPods dependencies (if using)
+Pods/
+
